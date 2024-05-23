@@ -11,5 +11,5 @@ Actualmente, solo se puede:
 - El ID es Autoincrementable
 
 ## Ejecutar aplicación
-Para ejecutar el servidor, es necesario ejecutar el comando:
-`npm run dev`
+1. Una vez clonado el proyecto, es necesario instalar las dependencias de NodeJS mediante el comando: `npm install`
+2. Para ejecutar el servidor, es necesario ejecutar el comando: `npm run dev`
